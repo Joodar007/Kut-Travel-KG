@@ -16,13 +16,13 @@ export const COMPANY_INFO = {
 export const IMAGES = {
     heroMain: "https://picsum.photos/seed/lenin-peak/1920/1080",
     aboutMain: "https://picsum.photos/seed/horseback/800/600",
-    aboutGallery1: "https://i.postimg.cc/65vLchJp/Изображение_Whats_App_2025_11_04_в_15_20_16_2011cb28.jpg",
-    aboutGallery2: "https://picsum.photos/seed/happygroup/400/300",
-    aboutGallery3: "https://picsum.photos/seed/guidevalley/400/300",
+    aboutGallery1: "https://i.postimg.cc/Twn5mtW5/Izobrazenie-Whats-App-2025-11-04-v-15-20-17-2c80ad62.jpg",
+    aboutGallery2: "https://i.postimg.cc/NM8LLLWQ/Изображение_Whats_App_2025_11_04_в_15_20_06_5d3fd78f.jpg",
+    aboutGallery3: "https://i.postimg.cc/ydCkV0rk/Изображение_Whats_App_2025_11_04_в_15_20_07_2bc8d5d0.jpg",
     milkyWay: "https://picsum.photos/seed/milkyway/1200/800",
     highAltitude: "https://picsum.photos/seed/highaltitude/1200/800",
-    tour1Cover: "https://picsum.photos/seed/dramaticvalley/800/600",
-    tour2Cover: "https://picsum.photos/seed/yukhin/800/600",
+    tour1Cover: "https://i.postimg.cc/tCxw6PBv/Izobrazenie-Whats-App-2025-11-04-v-15-20-07-67366459.jpg",
+    tour2Cover: "https://i.postimg.cc/1td7n5wh/Izobrazenie-Whats-App-2025-11-04-v-15-20-11-e3faa0f5.jpg",
     contactHero: "https://picsum.photos/seed/greenmtn/1200/400",
     placeholder: "https://picsum.photos/seed/placeholder/800/600"
 };
