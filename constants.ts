@@ -22,7 +22,7 @@ export const IMAGES = {
     milkyWay: "https://picsum.photos/seed/milkyway/1200/800",
     highAltitude: "https://picsum.photos/seed/highaltitude/1200/800",
     tour1Cover: "https://i.postimg.cc/tCxw6PBv/Izobrazenie-Whats-App-2025-11-04-v-15-20-07-67366459.jpg",
-    tour2Cover: "https://i.postimg.cc/1td7n5wh/Izobrazenie-Whats-App-2025-11-04-v-15-20-11-e3faa0f5.jpg",
+    tour2Cover: "https://i.postimg.cc/KjXVp8zg/Izobrazenie-Whats-App-2025-11-04-v-15-20-08-fd743578.jpg",
     contactHero: "https://picsum.photos/seed/greenmtn/1200/400",
     placeholder: "https://picsum.photos/seed/placeholder/800/600"
 };
