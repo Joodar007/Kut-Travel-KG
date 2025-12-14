@@ -16,7 +16,7 @@ export const COMPANY_INFO = {
 export const IMAGES = {
     heroMain: "https://picsum.photos/seed/lenin-peak/1920/1080",
     aboutMain: "https://picsum.photos/seed/horseback/800/600",
-    aboutGallery1: "https://drive.google.com/file/d/1mW7T9yxaSrcspButvzt7gk3_NWl3TU5X/view?usp=sharing",
+    aboutGallery1: "https://i.postimg.cc/65vLchJp/Изображение_Whats_App_2025_11_04_в_15_20_16_2011cb28.jpg",
     aboutGallery2: "https://picsum.photos/seed/happygroup/400/300",
     aboutGallery3: "https://picsum.photos/seed/guidevalley/400/300",
     milkyWay: "https://picsum.photos/seed/milkyway/1200/800",
