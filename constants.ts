@@ -31,7 +31,7 @@ export const TOURS: Tour[] = [
     {
         id: "1",
         slug: "osh-sary-mogol-tulpar-kol-osh",
-        title: "Osh – Sary Mogol – Tulpar Kol – Osh",
+        title: "Tulpar Kol",
         description: "A comprehensive 7-day journey through the majestic Alay Mountains, experiencing the true nomadic lifestyle.",
         duration: "7 Days / 6 Nights",
         location: "Alay Mountains",
