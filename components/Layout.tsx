@@ -160,7 +160,8 @@ const Footer: React.FC = () => {
                     <p>© {COMPANY_INFO.copyrightYear} Kut Travel KG — All Rights Reserved</p>
                     <div className="flex gap-4 mt-4 md:mt-0">
  {/* Social placeholders */} 
-                        <span className="hover:text-white cursor-pointer"><Instagram size={20} /></span> <span className="hover:text-white cursor-pointer"><Facebook size={20} /></span> </div> </div> </div> </footer> ); };
+                        <span className="hover:text-white cursor-pointer"><Instagram size={20} /></span> <span className="hover:text-white cursor-pointer">
+                            <Facebook size={20} /></span> </div> </div> </div> </footer> ); };
 const BackgroundBlobs: React.FC = () => {
     return (
         <div className="fixed inset-0 pointer-events-none -z-10 overflow-hidden">
