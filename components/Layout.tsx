@@ -159,15 +159,18 @@ const Footer: React.FC = () => {
                 <div className="border-t border-emerald-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-emerald-300">
                     <p>© {COMPANY_INFO.copyrightYear} Kut Travel KG — All Rights Reserved</p>
                     <div className="flex gap-4 mt-4 md:mt-0">
-                         {/* Social placeholders */}
-                         <span className="hover:text-white cursor-pointer"><Instagram size={20} /></span>
-                         <span className="hover:text-white cursor-pointer"><Facebook size={20} /></span>
-                    </div>
-                </div>
-            </div>
-        </footer>
-    );
-};
+                        {/* Social placeholders */}
+<div className="flex gap-4">
+    <a
+        href="https://www.instagram.com/kut_travel_osh/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="hover:text-white transition-colors"
+        aria-label="Instagram"
+    >
+        <Instagram size={20} />
+    </a>
+</div>
 
 const BackgroundBlobs: React.FC = () => {
     return (
