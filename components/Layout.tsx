@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
-import { Menu, X, MapPin, Mail, Phone, Instagram, Facebook } from 'lucide-react';
+import { Menu, X, MapPin, Mail, Phone, Instagram } from 'lucide-react';
 import { COMPANY_INFO } from '../constants';
 
 const Header: React.FC = () => {
@@ -159,9 +159,16 @@ const Footer: React.FC = () => {
                 <div className="border-t border-emerald-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-emerald-300">
                     <p>© {COMPANY_INFO.copyrightYear} Kut Travel KG — All Rights Reserved</p>
                     <div className="flex gap-4 mt-4 md:mt-0">
- {/* Social placeholders */} 
-                        <span className="hover:text-white cursor-pointer"><Instagram size={20} /></span> <span className="hover:text-white cursor-pointer">
-                            <Facebook size={20} /></span> </div> </div> </div> </footer> ); };
+                        <a href="https://www.instagram.com/kut_travel_osh/" target="_blank" rel="noopener noreferrer" className="hover:text-white cursor-pointer">
+                            <Instagram size={20} />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    );
+};
+
 const BackgroundBlobs: React.FC = () => {
     return (
         <div className="fixed inset-0 pointer-events-none -z-10 overflow-hidden">
